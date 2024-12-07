@@ -1,0 +1,200 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var mensaje = TempData["Mensaje"] as string;
+    var mensajeClase = TempData["MensajeClase"] as string;
+}
+
+
+    
+    <!-- Estilos personalizados para las cartas -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 2rem;
+            padding: 2rem;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transform: translateY(0);
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 1.5rem;
+            text-align: center;
+        }
+
+        .card-body {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .card-footer {
+            padding: 10px;
+            background-color: #f1f1f1;
+            text-align: center;
+        }
+
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+       
+    </style>
+    @if (Session["Mensaje"] != null)
+    {
+        <div class=" alert-danger">@Session["Mensaje"]</div>
+    }
+    @if (!string.IsNullOrEmpty(mensaje))
+    {
+        <div class=" @mensajeClase">
+            @mensaje
+        </div>
+    }
+<div class="container">
+    <!-- Carta 1 -->
+    <div class="card" onclick="redirectTo('../Registro/RegistroNegocio')">
+        <div class="card-header">
+            <h3>Registrar Negocio</h3>
+        </div>
+        <div class="card-body">
+            <p>Registra un nuevo negocio en la plataforma.</p>
+            <a href="#" class="btn">Ir al panel</a>
+        </div>
+        <div class="extra-info">
+            <p>Este módulo te permite crear tu negocio para poder llegar al sector turístico y potenciar tu alcance.</p>
+        </div>
+        <div class="card-footer">
+            <small>Aventúrate con nosotros</small>
+        </div>
+    </div>
+    <div class="card" onclick="redirectTo('../Negocio/Negocios')">
+        <div class="card-header">
+            <h3>Editar Negocios</h3>
+        </div>
+        <div class="card-body">
+            <p>Edita tu negocio en la plataforma.</p>
+            <a href="#" class="btn">Ir al panel</a>
+        </div>
+        <div class="extra-info">
+            <p>Este módulo te permite editar tu negocio para poder llegar al sector turístico y potenciar tu alcance.</p>
+        </div>
+        <div class="card-footer">
+            <small>Aventúrate con nosotros</small>
+        </div>
+    </div>
+
+    <script>
+        // Redirigir a la ruta especificada
+        function redirectTo(path) {
+            window.location.href = path; // Redirecciona a la URL proporcionada
+        }
+    </script>
+
+
+    <!-- Carta 2 -->
+    <div class="card" onclick="toggleInfo(this)">
+        <div class="card-header">
+            <h3>Gestión de Contenidos</h3>
+        </div>
+        <div class="card-body">
+            <p>Administrar los contenidos visibles en la plataforma.</p>
+            <a href="#" class="btn">Ir al panel</a>
+        </div>
+        <div class="extra-info">
+            <p>Aquí puedes actualizar el contenido de la página principal, los artículos y las imágenes visibles para los usuarios.</p>
+        </div>
+        <div class="card-footer">
+            <small>Última actualización: 25/10/2024</small>
+        </div>
+    </div>
+
+    <!-- Carta 3 -->
+    <div class="card" onclick="redirectTo('../Estadistica/Index')">
+        <div class="card-header">
+            <h3>Estadísticas</h3>
+        </div>
+        <div class="card-body">
+            <p>Ver las estadísticas de la plataforma y rendimiento.</p>
+            <a href="#" class="btn">Ir al panel</a>
+        </div>
+        <div class="extra-info">
+            <p>Visualiza las métricas importantes de uso de la plataforma, como el número de usuarios activos y la actividad general.</p>
+        </div>
+        <div class="card-footer">
+            <small>Última actualización: 12/10/2024</small>
+        </div>
+    </div>
+
+    <!-- Carta 4 -->
+    <div class="card" onclick="toggleInfo(this)">
+        <div class="card-header">
+            <h3>Configuraciones</h3>
+        </div>
+        <div class="card-body">
+            <p>Ajustar las configuraciones generales de la plataforma.</p>
+            <a href="#" class="btn">Ir al panel</a>
+        </div>
+        <div class="extra-info">
+            <p>Este módulo te permite cambiar configuraciones del sistema, como los permisos de usuarios y configuraciones de seguridad.</p>
+        </div>
+        <div class="card-footer">
+            <small>Última actualización: 05/10/2024</small>
+        </div>
+    </div>
+</div>
+
+    <script>
+        // Función para alternar la visibilidad de la información adicional en las cartas
+        function toggleInfo(card) {
+            var extraInfo = card.querySelector('.extra-info');
+            if (extraInfo.style.display === 'none' || extraInfo.style.display === '') {
+                extraInfo.style.display = 'block';
+            } else {
+                extraInfo.style.display = 'none';
+            }
+        }
+
+        // Función para mostrar un mensaje de alerta (puedes modificarla o llamarla con diferentes mensajes)
+        function showAlert(message) {
+            alert(message);
+        }
+    </script>
+
+
+

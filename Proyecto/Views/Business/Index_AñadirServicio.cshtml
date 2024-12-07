@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Index_AñadirServicio";
+    var negocioId = Session["NegocioId"];
+
+}
+
+<style>
+    .card-container {
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-content: center;
+        margin: 15px;
+    }
+
+    .card {
+        width: 300px;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        transition: transform 0.3s;
+        color: #fff;
+        background-color: #2D2B2C;
+        text-align: center;
+    }
+
+        .card:hover {
+            transform: translateY(-8px);
+        }
+
+        .card h2 {
+            background-color: #4B0082; /* Morado oscuro */
+            margin: 0;
+            padding: 20px;
+            font-size: 1.5em;
+        }
+
+        .card p {
+            padding: 20px;
+            font-size: 1em;
+            color: #D3D3D3; /* Gris claro */
+        }
+
+        .card .button {
+            display: block;
+            background-color: #8B0000; /* Granate */
+            color: #FFFFFF;
+            padding: 15px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-top: 2px solid #4B0082;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+            .card .button:hover {
+                background-color: #4B0082; /* Morado oscuro */
+                color: #FFD700; /* Amarillo dorado */
+            }
+</style>
+
+<div class="card-container">
+    <!-- Tarjeta de Hospedaje -->
+    <div class="card">
+        <h2>Servicio de Hospedaje</h2>
+        <p>Ofrece estancias confortables con servicios de primera para tus clientes.</p>
+        @Html.ActionLink("Seleccionar", "AñadirServicio_Hotel", "Business", new { negocioId = negocioId }, new { @class = "button" })
+    </div>
+
+    <!-- Tarjeta de Restaurante -->
+    <div class="card">
+        <h2>Servicio de Restaurante</h2>
+        <p>Agrega una experiencia gastronómica única para deleitar a los visitantes.</p>
+        @Html.ActionLink("Seleccionar", "AñadirServicio_Restaurante", "Business", new { negocioId = negocioId }, new { @class = "button" })
+    </div>
+
+    <!-- Tarjeta de Turismo -->
+    <div class="card">
+        <h2>Servicio Turístico</h2>
+        <p>Proporciona recorridos turísticos inolvidables con guías expertos a los rincones más hermosos.</p>
+        @Html.ActionLink("Seleccionar", "AñadirServicio_Turismo", "Business", new { negocioId = negocioId }, new { @class = "button" })
+    </div>
+</div>

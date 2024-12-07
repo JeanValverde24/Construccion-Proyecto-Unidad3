@@ -1,0 +1,435 @@
+﻿@model IEnumerable<Proyecto.Models.Negocio>
+
+@{
+    ViewBag.Title = "Inicio";
+
+    var mensaje = TempData["Mensaje"] as string;
+    var mensajeClase = TempData["MensajeClase"] as string;
+}
+
+@if (Session["Mensaje"] != null)
+{
+    <div class=" alert-danger">@Session["Mensaje"]</div>
+}
+@if (!string.IsNullOrEmpty(mensaje))
+{
+    <div class=" @mensajeClase">
+        @mensaje
+    </div>
+}
+<div class="hero-section">
+    <!-- Video de fondo -->
+    <video autoplay muted loop playsinline class="video-bg">
+        <source src="~/Content/Videos/TacnaFondo.mp4" type="video/mp4">
+        <!-- Fallback text en caso de que el video no sea compatible -->
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Contenido superpuesto encima del video -->
+    <div class="overlay">
+        <h1 class="hero-title">Tacna, el inicio de la patria</h1>
+        <div class="search-bar">
+            <input type="text" placeholder="Buscar..." class="search-input" />
+            <button class="search-btn">Buscar</button>
+        </div>
+        <div class="button-group">
+            <button class="custom-btn">Recomendaciones</button>
+            <button class="fiestas" onclick="toggleCard()">Fiestas</button>
+        </div>
+    </div>
+</div>
+<!-- Asegúrate de tener el CDN de Font Awesome en el <head> de tu proyecto -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+<div class="fiestas-card">
+    <h2>Fiestas de Tacna</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Mes</th>
+                <th>Fecha</th>
+                <th>Lugar</th>
+                <th>Festividad</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Febrero</td><td>02</td><td>Tacna, Sama</td><td>Virgen de la Candelaria</td></tr>
+            <tr><td>Marzo</td><td>19</td><td>Pachía</td><td>Fiesta de San José</td></tr>
+            <tr><td>Abril</td><td>24</td><td>Tarata</td><td>Feria Agropecuaria</td></tr>
+            <tr><td>Abril</td><td>30</td><td>Tarata</td><td>Festival del Maíz y la Papa</td></tr>
+            <tr><td>Mayo</td><td>Todo el mes</td><td>Tacna</td><td>Fiesta de las Cruces</td></tr>
+            <tr><td>Mayo</td><td>26</td><td>Tacna</td><td>Aniversario de la Batalla del Alto de la Alianza</td></tr>
+            <tr><td>Junio</td><td>04</td><td>Tarata</td><td>Festival de San Benedicto</td></tr>
+            <tr><td>Junio</td><td>07</td><td>Tacna</td><td>Aniversario de la Batalla de Arica</td></tr>
+            <tr><td>Junio</td><td>20</td><td>Tacna</td><td>Homenaje a José Antonio de Zela</td></tr>
+            <tr><td>Junio</td><td>23</td><td>Tacna</td><td>Víspera de San Juan</td></tr>
+            <tr><td>Julio</td><td>06</td><td>Tacna</td><td>Virgen de la Esperanza</td></tr>
+            <tr><td>Julio</td><td>16</td><td>Candarave</td><td>Nuestra Señora del Carmen</td></tr>
+            <tr><td>Agosto</td><td>27</td><td>Tacna</td><td>Procesión de la Bandera</td></tr>
+            <tr><td>Septiembre</td><td>14</td><td>Tacna</td><td>Peregrinación al Señor de Locumba</td></tr>
+            <tr><td>Octubre</td><td>07</td><td>Tacna</td><td>Fiesta de la Virgen del Rosario</td></tr>
+            <tr><td>Noviembre</td><td>27</td><td>Las Yaras, Sama</td><td>Feria Agropecuaria</td></tr>
+            <tr><td>Diciembre</td><td>08</td><td>Las Yaras, Sama</td><td>Festival Virgen de las Peñas</td></tr>
+        </tbody>
+    </table>
+    <button onclick="toggleCard()">Cerrar</button>
+</div>
+<script>
+    function toggleCard() {
+        const card = document.querySelector('.fiestas-card');
+        const overlay = document.querySelector('.overlay');
+        const isActive = card.classList.contains('active');
+
+        if (isActive) {
+            card.classList.remove('active');
+            overlay.classList.remove('active');
+        } else {
+            card.classList.add('active');
+            overlay.classList.add('active');
+        }
+    }
+</script>
+<style>
+
+    .fiestas {
+        padding: 10px 20px;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        margin: 20px;
+        transition: background-color 0.3s ease;
+    }
+
+        .fiestas:hover {
+            background-color: #0056b3;
+        }
+
+    /* Cartilla flotante */
+    .fiestas-card {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(0.8);
+        width: 90%;
+        max-width: 700px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        padding: 20px;
+        z-index: 1000;
+        opacity: 0;
+        transition: all 0.3s ease;
+    }
+
+        .fiestas-card.active {
+            display: block;
+            transform: translate(-50%, -50%) scale(1);
+            opacity: 1;
+        }
+
+    .fiestas-overlay.active {
+        display: block;
+        opacity: 1;
+    }
+
+    .fiestas-card h2 {
+        margin-top: 0;
+    }
+
+    .fiestas-card table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+        .fiestas-card table th,
+        .fiestas-card table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .fiestas-card table th {
+            background-color: #f2f2f2;
+        }
+
+    .fiestas-card button {
+        padding: 10px 20px;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 15px auto 0;
+        display: block;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    /* Fondo oscuro */
+    .fiestas-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+
+
+    .message {
+        text-align: center;
+        margin-top: 20px;
+        color: #4A0D50;
+        font-weight: bold;
+    }
+
+    .alert-success {
+        color: #155724;
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .alert-danger {
+        color: #721c24;
+        background-color: #f8d7da;
+        border-color: #f5c6cb;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .checkbox-wrapper-35 .switch {
+        display: none;
+    }
+
+        .checkbox-wrapper-35 .switch + label {
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+            color: #78768d;
+            cursor: pointer;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            line-height: 15px;
+            position: relative;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+            .checkbox-wrapper-35 .switch + label::before,
+            .checkbox-wrapper-35 .switch + label::after {
+                content: '';
+                display: block;
+            }
+
+            .checkbox-wrapper-35 .switch + label::before {
+                background-color: #05012c;
+                border-radius: 500px;
+                height: 15px;
+                margin-right: 8px;
+                -webkit-transition: background-color 0.125s ease-out;
+                transition: background-color 0.125s ease-out;
+                width: 25px;
+            }
+
+            .checkbox-wrapper-35 .switch + label::after {
+                background-color: #fff;
+                border-radius: 13px;
+                box-shadow: 0 3px 1px 0 rgba(37, 34, 71, 0.05), 0 2px 2px 0 rgba(37, 34, 71, 0.1), 0 3px 3px 0 rgba(37, 34, 71, 0.05);
+                height: 13px;
+                left: 1px;
+                position: absolute;
+                top: 1px;
+                -webkit-transition: -webkit-transform 0.125s ease-out;
+                transition: -webkit-transform 0.125s ease-out;
+                transition: transform 0.125s ease-out;
+                transition: transform 0.125s ease-out, -webkit-transform 0.125s ease-out;
+                width: 13px;
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-text {
+                display: block;
+                margin-right: .3em;
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-toggletext {
+                display: block;
+                font-weight: bold;
+                height: 15px;
+                overflow: hidden;
+                position: relative;
+                width:;
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-unchecked,
+            .checkbox-wrapper-35 .switch + label .switch-x-checked {
+                left: 0;
+                position: absolute;
+                top: 0;
+                -webkit-transition: opacity 0.125s ease-out, -webkit-transform 0.125s ease-out;
+                transition: opacity 0.125s ease-out, -webkit-transform 0.125s ease-out;
+                transition: transform 0.125s ease-out, opacity 0.125s ease-out;
+                transition: transform 0.125s ease-out, opacity 0.125s ease-out, -webkit-transform 0.125s ease-out;
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-unchecked {
+                opacity: 1;
+                -webkit-transform: none;
+                transform: none;
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-checked {
+                opacity: 0;
+                -webkit-transform: translate3d(0, 100%, 0);
+                transform: translate3d(0, 100%, 0);
+            }
+
+            .checkbox-wrapper-35 .switch + label .switch-x-hiddenlabel {
+                position: absolute;
+                visibility: hidden;
+            }
+
+        .checkbox-wrapper-35 .switch:checked + label::before {
+            background-color: #ffb500;
+        }
+
+        .checkbox-wrapper-35 .switch:checked + label::after {
+            -webkit-transform: translate3d(10px, 0, 0);
+            transform: translate3d(10px, 0, 0);
+        }
+
+        .checkbox-wrapper-35 .switch:checked + label .switch-x-unchecked {
+            opacity: 0;
+            -webkit-transform: translate3d(0, -100%, 0);
+            transform: translate3d(0, -100%, 0);
+        }
+
+        .checkbox-wrapper-35 .switch:checked + label .switch-x-checked {
+            opacity: 1;
+            -webkit-transform: none;
+            transform: none;
+        }
+
+    .custom-btn {
+        padding: 10px 20px;
+        font-size: 18px;
+        color: white;
+        background-color: #8C0042; /* Burdeos */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .custom-btn:hover {
+            background-color: #4A0D50; /* Morado oscuro */
+        }
+
+    .color1 {
+        background-color: #4A0D50; /* Morado oscuro */
+    }
+
+    .resultados-random {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+        gap: 50px;
+        flex-wrap: wrap;
+    }
+
+    .lugar-card {
+        width: 30%;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+        background-color: #fff;
+    }
+
+    .card-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+
+        .card-body h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .card-body p {
+            font-size: 1em;
+            margin: 5px 0;
+        }
+
+    .btn-ver-mas {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+
+        .btn-ver-mas:hover {
+            background-color: #0056b3;
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+</style>
+
+<div class="resultados-random">
+    @foreach (var lugar in Model)
+    {
+        <div class="card lugar-card">
+            <div class="carousel">
+                @foreach (var imagenUrl in lugar.ImagenesUrl)
+                {
+                    <img src="@imagenUrl" alt="@lugar.TbNgcNombre" class="card-img">
+                }
+            </div>
+            <div class="card-body">
+                <h2>@lugar.TbNgcNombre</h2>
+                @*<p>@lugar.negocio_id</p>*@
+                <p><strong>Tipo de Negocio:</strong> @lugar.TipoNegocio</p>
+                <p><strong>Provincia:</strong> @lugar.Provincia</p>
+                <a href="@Url.Action("CargarInformacionDelNegocioUsuario", "Business", new { negocioId = lugar.negocio_id })" class="btn btn-ver-mas">Ver más</a>
+
+
+                @* Verifica si el usuario es de tipo "1" para mostrar el botón *@
+                @if (Convert.ToString(Session["TipoUsuario"]) == "1")
+                {
+                    <a href="@Url.Action("DejarFeedback", "Perfil", new { negocio_id = lugar.negocio_id })" class="btn btn-primary">Dejar Feedback</a>
+
+                }
+            </div>
+        </div>
+    }
+
+
+</div>

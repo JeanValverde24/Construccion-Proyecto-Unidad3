@@ -1,0 +1,1587 @@
+C:\Users\HP\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll.config
+E:\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll
+E:\Proyecto\Proyecto\Proyecto\bin\Proyecto.pdb
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.exe
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.rsp
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.exe
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.rsp
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.exe
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+E:\Proyecto\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyecto\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyecto\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Razor.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Razor.xml
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+E:\Proyecto\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+E:\Proyecto\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+E:\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+E:\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+E:\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+E:\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+E:\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Proyecto.dll.config
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Proyecto.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Proyecto.pdb
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csc.exe
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csc.exe.config
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csc.rsp
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csi.exe
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csi.exe.config
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\csi.rsp
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.AppContext.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Console.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.IO.Compression.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Net.Http.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Net.Sockets.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.ValueTuple.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Xml.XPath.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\vbc.exe
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\vbc.exe.config
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\vbc.rsp
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\VBCSCompiler.exe
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Helpers.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Mvc.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Razor.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Razor.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Helpers.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\System.Web.Mvc.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Razor.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Webpages.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Helpers.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\bin\es\System.Web.Mvc.resources.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\obj\Debug\Proyecto.dll
+D:\Tareas\07-implementacion-de-codigo-g02_valverde_cano\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\packages\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\Downloads\packages\Proyecto\bin\Proyecto.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\packages\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\packages\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\packages\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Downloads\packages\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Proyecto.dll.config
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Proyecto.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Proyecto.pdb
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csc.exe
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csc.rsp
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csi.exe
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\csi.rsp
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\vbc.exe
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Razor.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Razor.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ANTONY\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\Downloads\packages\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+C:\Users\ANTONY\Downloads\packages\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\ANTONY\Downloads\packages\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Proyecto\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Proyecto.dll.config
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Proyecto.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Proyecto.pdb
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csc.exe
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csc.rsp
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csi.exe
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\csi.rsp
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\vbc.exe
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Razor.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Razor.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+D:\ALE\Ciclo X\Programación Web II (Rec)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Razor.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Razor.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Buffers.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Memory.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Buffers.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Memory.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\ANTONY\Downloads\ProyectoV2\Proyecto\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Buffers.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Memory.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Buffers.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Memory.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.xml
+C:\Users\HP\Downloads\Proyecto (2)\Proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.dll.config
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Proyecto.pdb
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.exe
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csc.rsp
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.exe
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\csi.rsp
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.exe
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Buffers.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Memory.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Razor.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Newtonsoft.Json.Bson.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Buffers.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Memory.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Razor.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Http.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.ValueTuple.dll
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Http.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ANTONY\Downloads\Proyecto (2)\Proyecto\bin\System.ValueTuple.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Proyecto.dll.config
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Proyecto.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Proyecto.pdb
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Http.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Buffers.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Memory.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.ValueTuple.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Razor.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Http.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Logging.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Newtonsoft.Json.Bson.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Buffers.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Memory.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.ValueTuple.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Razor.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\HP\Downloads\construccionproyecto\SIstemaWeb\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Proyecto.dll.config
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Proyecto.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Proyecto.pdb
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csc.exe
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csc.rsp
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csi.exe
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\csi.rsp
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\vbc.exe
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Http.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Newtonsoft.Json.Bson.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Buffers.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Memory.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.ValueTuple.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Razor.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Http.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Newtonsoft.Json.Bson.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Buffers.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Memory.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.ValueTuple.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Razor.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\ANTONY\OneDrive\Escritorio\gestion\Valverde-Cano-Turimo\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Proyecto.dll.config
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Proyecto.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Proyecto.pdb
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csc.exe
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csc.rsp
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csi.exe
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\csi.rsp
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\vbc.exe
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Http.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Logging.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Options.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Newtonsoft.Json.Bson.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Buffers.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.ComponentModel.Annotations.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Memory.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Net.Http.Formatting.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Numerics.Vectors.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Text.Encodings.Web.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.ValueTuple.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Helpers.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Mvc.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Razor.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.Razor.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Http.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Logging.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Options.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Newtonsoft.Json.Bson.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Buffers.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Memory.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Net.Http.Formatting.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Numerics.Vectors.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Text.Encodings.Web.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.ValueTuple.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Razor.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Webpages.Razor.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Helpers.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\System.Web.Mvc.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Razor.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Webpages.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\lenov\Proyecto-Plataforma-Turistica-Autogestionable\Proyecto\obj\Debug\Proyecto.pdb

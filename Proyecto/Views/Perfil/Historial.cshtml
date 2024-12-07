@@ -1,0 +1,32 @@
+﻿@model List<Proyecto.Models.Feedback>
+
+<h2>Historial de Feedback</h2>
+
+@if (!Model.Any())
+{
+    <p>No tienes feedbacks registrados.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Comentario</th>
+                <th>Calificación</th>
+                <th>Fecha</th>
+                <th>Negocio</th> <!-- Agregado para mostrar el nombre del negocio -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var feedback in Model)
+            {
+                <tr>
+                    <td>@feedback.FbComentario</td> <!-- Usando FbComentario -->
+                    <td>@feedback.FbCalificacion ★</td> <!-- Usando FbCalificacion -->
+                    <td>@feedback.FbFecha.ToString("dd/MM/yyyy")</td>
+                    <td>@feedback.NegocioNombre</td> <!-- Mostrando el nombre del negocio -->
+                </tr>
+            }
+        </tbody>
+    </table>
+}

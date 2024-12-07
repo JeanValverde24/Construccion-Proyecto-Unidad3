@@ -1,0 +1,61 @@
+﻿@model Proyecto.Models.Negocio
+
+<h2>Editar Negocio</h2>
+
+@using (Html.BeginForm("ActualizarNegocio", "Business", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.negocio_id)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TbNgcNombre)
+        @Html.TextBoxFor(model => model.TbNgcNombre, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TipoNegocio)
+        @Html.TextBoxFor(model => model.TipoNegocio, new { @class = "form-control" })
+    </div>
+
+
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TbNgcProvincia)
+        <select id="Provincia" class="form-control" name="TbNgcProvincia">
+            <!-- Las opciones se llenarán automáticamente con JavaScript -->
+        </select>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.TbNgcDireccion)
+        @Html.TextBoxFor(model => model.TbNgcDireccion, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TbNgcTelefono)
+        @Html.TextBoxFor(model => model.TbNgcTelefono, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+    fetch('http://159.223.123.38:8000/api/provincias')
+        .then(response => response.json())
+        .then(provincias => {
+            const provinciaSelect = document.getElementById('Provincia');
+            provincias.forEach(provincia => {
+                const option = document.createElement('option');
+                option.value = provincia.TbPvncId; // Asegúrate de que este valor sea numérico
+                option.text = provincia.Nombre;
+                provinciaSelect.appendChild(option);
+            });
+
+            // Selecciona la provincia actual
+            const selectedProvinciaId = @Html.Raw(Json.Encode(Model.TbNgcProvincia));
+            if (selectedProvinciaId) {
+                provinciaSelect.value = selectedProvinciaId;
+            }
+        })
+        .catch(error => console.log('Error al cargar provincias:', error));
+});
+</script>

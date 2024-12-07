@@ -1,0 +1,383 @@
+﻿<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <meta charset="UTF-8">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Turismo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* Estilos personalizados con paleta de colores */
+        .color1 {
+            background-color: #4A0D50;
+        }
+        /* Morado oscuro */
+        .color2 {
+            background-color: #8C0042;
+        }
+        /* Burdeos */
+        .color3 {
+            background-color: #BF0044;
+        }
+        /* Rojo brillante */
+        .color4 {
+            background-color: #FF5312;
+        }
+        /* Naranja */
+        .color5 {
+            background-color: #FFC300;
+        }
+        /* Amarillo */
+
+        /* Header */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+        }
+
+        .logo {
+            width: 150px;
+            height: 50px;
+            background-color: grey; /* Placeholder para la imagen */
+        }
+
+        .nav {
+            gap: 0px;
+        }
+
+        .nav-item a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+        }
+
+            .nav-item a:hover {
+                background-color: rgba(255, 255, 255, 0.2);
+                border-radius: 5px;
+            }
+
+        .login-btn {
+            background-color: #FFC300; /* Amarillo */
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+            .login-btn:hover {
+                background-color: #FF5312; /* Naranja */
+                color: white;
+            }
+
+        /* Íconos */
+        .nav-item i {
+            margin-right: 8px;
+        }
+    </style>
+
+
+
+    <style>
+        /* Estilos para el video de fondo */
+        .video-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1; /* Asegurarse de que el video esté detrás del contenido */
+        }
+
+        .hero-section {
+            position: relative;
+            height: 100vh; /* Full height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5); /* Fondo oscuro semitransparente */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .hero-title {
+            color: white;
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra para que sea más visible */
+        }
+
+        .search-bar {
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            padding: 10px;
+            font-size: 18px;
+            border: none;
+            outline: none;
+            border-radius: 5px 0 0 5px;
+            width: 300px;
+        }
+
+        .search-btn {
+            padding: 10px 20px;
+            background-color: #FFC300; /* Amarillo */
+            color: black;
+            font-size: 18px;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+        }
+
+            .search-btn:hover {
+                background-color: #FF5312; /* Naranja */
+                color: white;
+            }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        .custom-btn {
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: #8C0042; /* Burdeos */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            .custom-btn:hover {
+                background-color: #4A0D50; /* Morado oscuro */
+            }
+    </style>
+
+
+</head>
+<body>
+    <!-- Header -->
+    <header class="header color1 text-white">
+        <div class="logo"></div>
+        <nav>
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="/Home/Restaurants">
+                        <i class="fas fa-utensils"></i> Restaurantes
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Home/Bodegas">
+                        <i class="fas fa-wine-bottle"></i> Bodegas
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Home/Hotels">
+                        <i class="fas fa-hotel"></i> Hoteles
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Home/TouristAttractions">
+                        <i class="fas fa-map-marker-alt"></i> Lugares Turísticos
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        @if (Session["IdUsuario"] == null)
+        {
+            <button class="login-btn" onclick="window.location.href='/Registro/Index'">
+                Registrarse
+            </button>
+            <button class="login-btn" onclick="window.location.href='/Login/Index'">
+                Login
+            </button>
+        }
+        @if (Session["Administrador"] != null)
+        {
+            <button class="login-btn" onclick="window.location.href='/Administrador/Index'">
+                Panel de Control
+            </button>
+
+        }
+
+        <div class="button-container">
+            <button class="brutalist-button openai button-1" data-bs-toggle="modal" data-bs-target="#customQuoteModal">
+                <div class="openai-logo">
+                    <svg class="openai-icon"
+                         viewBox="0 0 24 24"
+                         xmlns="http://www.w3.org/2000/svg">
+                        <path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.5907 8.3829 14.6108 7.2144a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.3927-.6813zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"
+                              fill="#10A37F"></path>
+                    </svg>
+                </div>
+                <div class="button-text">
+                    <span>Cotizaciones personalizadas</span>
+                    <span>¿Te ayudamos?</span>
+                </div>
+            </button>
+        </div>
+        <button class="login-btn" onclick="window.location.href='/Business/Servicios'"
+                style="display: @(Session["PermitirAñadirServicio"] != null && (bool)Session["PermitirAñadirServicio"] ? "block" : "none");">
+            Añadir Servicio
+        </button>
+
+        @if (Session["IdUsuario"] != null)
+        {
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="profileDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-user-circle"></i> Perfil
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="profileDropdown">
+                    <li>
+                        <a class="dropdown-item" style="display: @(Session["PermitirAñadirServicio"] != null && (bool)Session["PermitirAñadirServicio"] ? "none" : "block");"
+                           href="@Url.Action("Historial", "Perfil")">Historial de FeedBack</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" style="display: @(Session["PermitirAñadirServicio"] != null && (bool)Session["PermitirAñadirServicio"] ? "block" : "none");"
+                           href="@Url.Action("HistorialFeedBackNegocio", "Perfil")">Historial de FeedBack de Negocios</a>
+                    </li>
+                    <li><a class="dropdown-item" href="/Perfil/Configuracion">Configuración</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="/Home/Logout">Cerrar Sesión</a></li>
+                </ul>
+            </li>
+        }
+
+
+
+    </header>
+    <!-- Formulario Modal de Login -->
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header color1 text-white">
+                    <h5 class="modal-title" id="loginModalLabel">Inicio de Sesión</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Correo Electrónico</label>
+                            <input type="email" class="form-control" id="email" placeholder="nombre@ejemplo.com">
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Contraseña</label>
+                            <input type="password" class="form-control" id="password" placeholder="Contraseña">
+                        </div>
+
+                        <!-- Barra de selección personalizada -->
+                        <div class="container">
+                            <div class="pane">
+                                <label class="label">
+                                    <span>Viajero</span>
+                                    <input id="viajero" class="input" name="radio" type="radio">
+                                </label>
+                                <label class="label">
+                                    <span>Socio</span>
+                                    <input id="socio" class="input" checked="checked" name="radio" type="radio">
+                                </label>
+                                <span class="selection"></span>
+                            </div>
+                        </div>
+
+                        <div class="d-flex justify-content-between mt-3">
+                            <button type="submit" class="btn custom-btn">Iniciar Sesión</button>
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Render Body -->
+    @RenderBody()
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Modal para el formulario de cotización personalizada -->
+    <div class="modal fade" id="customQuoteModal" tabindex="-1" aria-labelledby="customQuoteModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header color1 text-white text-center">
+                    <h5 class="modal-title mx-auto" id="customQuoteModalLabel">Cotización Personalizada</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form class="text-center" action="/Cotizacion/CustomQuote" method="post">
+                        <div class="mb-3">
+                            <label for="dias" class="form-label">Días de Viaje</label>
+                            <input type="number" class="form-control mx-auto" id="dias" name="dias_viaje" placeholder="Ingrese la cantidad de días" style="max-width: 300px;" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="presupuesto" class="form-label">Presupuesto</label>
+                            <input type="number" class="form-control mx-auto" id="presupuesto" name="presupuesto_usuario" placeholder="Ingrese su presupuesto" style="max-width: 300px;" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="motivo" class="form-label">Motivo de Viaje</label>
+                            <select class="form-control mx-auto" id="motivo" name="motivo_viaje" style="max-width: 300px;" required>
+                                <option value="vacaciones">Vacaciones</option>
+                                <option value="trabajo">Trabajo</option>
+                                <option value="visita_familiar">Visita Familiar</option>
+                                <option value="otro">Otro</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="ubicacion" class="form-label">Ubicación</label>
+                            <select class="form-control mx-auto" id="ubicacion" name="ubicacion_usuario" style="max-width: 300px;" required>
+                                <option value="Madrid">Madrid</option>
+                                <option value="Barcelona">Barcelona</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="personas" class="form-label">Cantidad de Personas</label>
+                            <input type="number" class="form-control mx-auto" id="personas" name="cantidad_personas" placeholder="Ingrese la cantidad de personas" style="max-width: 300px;" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="fecha_inicio" class="form-label">Fecha Inicio</label>
+                            <input type="date" class="form-control mx-auto" id="fecha_inicio" name="fecha_inicio" style="max-width: 300px;" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="fecha_fin" class="form-label">Fecha Fin</label>
+                            <input type="date" class="form-control mx-auto" id="fecha_fin" name="fecha_fin" style="max-width: 300px;" required>
+                        </div>
+                        <div class="mt-4">
+                            <button type="submit" class="btn custom-btn w-50">Obtener Cotización</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    </div>
+    @RenderSection("Scripts", required: false) <!-- Esta línea debe estar presente -->
+
+
+    <footer class="text-center mt-4">
+        <p>© 2024 Turismo Platform</p>
+    </footer>
+</body>

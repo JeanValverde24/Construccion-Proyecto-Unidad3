@@ -1,0 +1,134 @@
+﻿@{
+    ViewBag.Title = "Agregar Cuarto - Hotel";
+}
+<style>
+    .custom-btn {
+        padding: 10px 20px;
+        font-size: 18px;
+        color: white;
+        background-color: #8C0042; /* Burdeos */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .custom-btn:hover {
+            background-color: #4A0D50; /* Morado oscuro */
+        }
+
+    .color1 {
+        background-color: #4A0D50; /* Morado oscuro */
+    }
+
+    .form-label {
+        font-weight: bold;
+        color: #4A0D50; /* Morado oscuro */
+        display: block; /* Asegurarse de que las etiquetas ocupen toda la línea */
+        text-align: center; /* Centrar el texto de las etiquetas */
+        margin: 10px 0; /* Añadir margen vertical */
+    }
+
+    .form-container {
+        margin-top: 40px;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        text-align: center; /* Centrar texto dentro del contenedor */
+    }
+
+    .form-control {
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        width: 100%; /* Hacer que los campos ocupen el ancho completo */
+        max-width: 300px; /* Limitar el ancho máximo */
+        margin-left: auto; /* Centrar horizontalmente */
+        margin-right: auto; /* Centrar horizontalmente */
+    }
+
+        .form-control:focus {
+            border-color: #8C0042;
+            box-shadow: 0 0 5px rgba(140, 0, 66, 0.5);
+        }
+</style>
+
+<!-- Contenedor del formulario de servicios de hotel -->
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2 class="text-center mb-4">Agregar Cuarto - Hotel</h2>
+            <div class="card">
+                <div class="card-header color1 text-white">
+                    <h5 class="card-title">Ingrese los detalles del cuarto</h5>
+                </div>
+                <div class="card-body">
+                    <form id="formAgregarCuarto" action="/Hoteles/AgregarCuarto" method="post" enctype="multipart/form-data">
+                        <!-- Campo de cantidad de personas -->
+                        <label for="cantidadPersonas" class="form-label">Cantidad de Personas</label>
+                        <select class="form-control" id="cantidadPersonas" name="cantidadPersonas">
+                            <option value="1">1 Persona</option>
+                            <option value="2">2 Personas</option>
+                            <option value="3">3 Personas</option>
+                            <option value="4">4 Personas</option>
+                            <option value="5">5 Personas o más</option>
+                        </select>
+
+                        <!-- Servicios adicionales -->
+                        <label for="wifi" class="form-label">Wi-Fi</label>
+                        <select class="form-control" id="wifi" name="wifi">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <label for="aguaCaliente" class="form-label">Agua Caliente</label>
+                        <select class="form-control" id="aguaCaliente" name="aguaCaliente">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <label for="roomService" class="form-label">Room Service</label>
+                        <select class="form-control" id="roomService" name="roomService">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <label for="cochera" class="form-label">Cochera</label>
+                        <select class="form-control" id="cochera" name="cochera">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <label for="cable" class="form-label">Cable</label>
+                        <select class="form-control" id="cable" name="cable">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <label for="desayunoIncluido" class="form-label">Desayuno Incluido</label>
+                        <select class="form-control" id="desayunoIncluido" name="desayunoIncluido">
+                            <option value="Si">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+
+                        <!-- Sección para subir fotos -->
+                        <label for="fotosCuarto" class="form-label">Subir Fotos del Cuarto</label>
+                        <input type="file" class="form-control" id="fotosCuarto" name="fotosCuarto" multiple>
+
+                        <!-- Precio del cuarto -->
+                        <label for="precio" class="form-label">Precio por Noche</label>
+                        <input type="number" class="form-control" id="precio" name="precio" placeholder="Ingrese el precio por noche">
+
+                        <!-- Botón para agregar el cuarto -->
+                        <div class="mt-4">
+                            <button type="submit" class="btn custom-btn w-100">Agregar Cuarto</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

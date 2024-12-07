@@ -1,0 +1,143 @@
+﻿@model Tuple<List<Proyecto.Models.ServicioHotel>, List<Proyecto.Models.ServicioRestaurante>, List<Proyecto.Models.ServicioTurismo>>
+@using Proyecto.Models // Usa el namespace donde está definido TipoPlatoEnum
+
+@{
+    ViewBag.Title = "Editar Servicios";
+}
+
+<h2>Editar Servicios</h2>
+
+<div class="container">
+    <!-- Servicios de Hotel -->
+    @if (Model?.Item1 != null && Model.Item1.Count > 0)
+    {
+        <h3>Servicios de Hotel</h3>
+        
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Cantidad de Personas</th>
+                    <th>WiFi</th>
+                    <th>Agua Caliente</th>
+                    <th>Room Service</th>
+                    <th>Cochera</th>
+                    <th>Cable</th>
+                    <th>Desayuno Incluido</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var hotel in Model.Item1)
+                {
+                    <tr>
+                        @using (Html.BeginForm("ActualizarServicioHotel", "Business", FormMethod.Post))
+                        {
+                            @Html.Hidden("NegocioId", hotel.NegocioId)
+                            @Html.Hidden("Id", hotel.Id)
+                            <td>@Html.TextBox("CantidadPersonas", hotel.CantidadPersonas, new { @class = "form-control", type = "number" })</td>
+                            <td>@Html.DropDownList("Wifi", new SelectList(new[] { "Si", "No" }, hotel.Wifi), new { @class = "form-control" })</td>
+                            <td>@Html.DropDownList("AguaCaliente", new SelectList(new[] { "Si", "No" }, hotel.AguaCaliente), new { @class = "form-control" })</td>
+                            <td>@Html.DropDownList("RoomService", new SelectList(new[] { "Si", "No" }, hotel.RoomService), new { @class = "form-control" })</td>
+                            <td>@Html.DropDownList("Cochera", new SelectList(new[] { "Si", "No" }, hotel.Cochera), new { @class = "form-control" })</td>
+                            <td>@Html.DropDownList("Cable", new SelectList(new[] { "Si", "No" }, hotel.Cable), new { @class = "form-control" })</td>
+                            <td>@Html.DropDownList("DesayunoIncluido", new SelectList(new[] { "Si", "No" }, hotel.DesayunoIncluido), new { @class = "form-control" })</td>
+                            <td>@Html.TextBox("Precio", hotel.Precio, new { @class = "form-control", type = "number", step = "0.01" })</td>
+
+                            <td>
+                                <button type="submit" class="btn btn-primary">Actualizar</button>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <!-- Servicios de Restaurante -->
+    @if (Model?.Item2 != null && Model.Item2.Count > 0)
+    {
+        <h3>Servicios de Restaurante</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre del Plato</th>
+                    <th>Tipo de Comida</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var restaurante in Model.Item2)
+                {
+                    <tr>
+                        @using (Html.BeginForm("ActualizarServicioRestaurante", "Business", FormMethod.Post))
+                        {
+                            @Html.Hidden("NegocioId", restaurante.NegocioId)
+
+                            <td>@Html.TextBox("NombrePlato", restaurante.NombrePlato, new { @class = "form-control" })</td>
+                            <td>
+                                @Html.DropDownList(
+                                    "TipoPlato",
+                                    new SelectList(Enum.GetValues(typeof(TipoPlatoEnum))
+                                                    .Cast<TipoPlatoEnum>()
+                                                    .Select(e => new { Value = (int)e, Text = e.ToString() }),
+                                                   "Value", "Text", (int)restaurante.TipoPlato),
+                                    new { @class = "form-control" }
+                                )
+                            </td>
+                            <td>@Html.TextBox("Precio", restaurante.Precio, new { @class = "form-control", type = "number", step = "0.01" })</td>
+
+                            <td>
+                                <button type="submit" class="btn btn-primary">Actualizar</button>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <!-- Servicios de Turismo -->
+    @if (Model?.Item3 != null && Model.Item3.Count > 0)
+    {
+        <h3>Servicios de Turismo</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre del Lugar</th>
+                    <th>Descripción</th>
+                    <th>Provincia</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var turismo in Model.Item3)
+                {
+                    <tr>
+                        @using (Html.BeginForm("ActualizarServicioTurismo", "Business", FormMethod.Post))
+                        {
+                            @Html.Hidden("NegocioId", turismo.NegocioId)
+
+                            <td>@Html.TextBox("NombreLugar", turismo.NombreLugar, new { @class = "form-control" })</td>
+                            <td>@Html.TextBox("Descripcion", turismo.Descripcion, new { @class = "form-control" })</td>
+                            <td>@Html.TextBox("Provincia", turismo.Provincia, new { @class = "form-control" })</td>
+                            <!-- Nueva columna Provincia -->
+                            <td>@Html.TextBox("Precio", turismo.Precio, new { @class = "form-control", type = "number", step = "0.01" })</td>
+
+                            <td>
+                                <button type="submit" class="btn btn-primary">Actualizar</button>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No se encontraron servicios de turismo.</p>
+    }
+
+</div>

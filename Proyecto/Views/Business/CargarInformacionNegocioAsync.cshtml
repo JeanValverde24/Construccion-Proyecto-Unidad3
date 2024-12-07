@@ -1,0 +1,25 @@
+﻿@model Proyecto.Models.Negocio
+
+<h2>Editar Negocio</h2>
+
+@using (Html.BeginForm("ActualizarNegocio", "Business", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.negocio_id)
+
+    <div>
+        <label>Nombre del Negocio:</label>
+        @Html.TextBoxFor(model => model.negocio_nombre)
+    </div>
+
+    <div>
+        <label>Tipo de Negocio:</label>
+        @Html.TextBoxFor(model => model.tipo_negocio)
+    </div>
+
+    <div>
+        <label>Provincia:</label>
+        @Html.TextBoxFor(model => model.provincia)
+    </div>
+
+    <button type="submit">Actualizar</button>
+}

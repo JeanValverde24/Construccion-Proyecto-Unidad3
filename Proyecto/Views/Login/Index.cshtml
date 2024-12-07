@@ -1,0 +1,160 @@
+﻿@model Proyecto.Models.Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1 class="main-title">Login</h1>
+
+<div class="toggle-buttons">
+    <button class="toggle-btn" onclick="toggleForm('turista')">Login de Turista</button>
+    <button class="toggle-btn" onclick="toggleForm('dueño')">Login de Dueño de Local</button>
+</div>
+
+<div class="form-wrapper">
+    <div id="turistaForm" class="form-container active">
+        <h2>Login de Turista</h2>
+        <form action="/Login/IniciarSesionTurista" method="post" class="register-form">
+            <input type="email" name="UsrCorreo" placeholder="Correo Electrónico" class="form-input" required />
+            <input type="password" name="Contraseña" placeholder="Contraseña" class="form-input" required />
+            <button type="submit" class="submit-btn">Login</button>
+        </form>
+    </div>
+
+    <div id="dueñoForm" class="form-container">
+        <h2>Login de Dueño de Local</h2>
+        <form action="/Login/IniciarSesionDueño" method="post" class="register-form">
+            <input type="number" name="UsrRuc" placeholder="RUC" class="form-input" required />
+            <input type="password" name="Contraseña" placeholder="Contraseña" class="form-input" required />
+            <button type="submit" class="submit-btn">Login</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleForm(type) {
+            const turistaForm = document.getElementById('turistaForm');
+            const dueñoForm = document.getElementById('dueñoForm');
+
+            if (type === 'turista') {
+                dueñoForm.classList.remove('active');
+                turistaForm.classList.add('active');
+            } else {
+                turistaForm.classList.remove('active');
+                dueñoForm.classList.add('active');
+            }
+        }
+
+        // Mostrar el formulario de turista por defecto
+        document.getElementById('turistaForm').style.visibility = 'visible';
+    </script>
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        color: #333;
+        padding: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        height: 100vh; /* Altura total de la ventana */
+        margin: 0; /* Elimina el margen por defecto */
+        justify-content: center; /* Centra verticalmente */
+    }
+
+    .main-title {
+        text-align: center;
+        color: #4A0D50;
+        font-size: 2.5em;
+        margin-bottom: 30px;
+    }
+
+    .toggle-buttons {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .toggle-btn {
+        background-color: #8C0042;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        margin: 0 10px;
+        font-size: 1.1em;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+        .toggle-btn:hover {
+            background-color: #4A0D50;
+        }
+
+    .form-wrapper {
+        width: 100%;
+        max-width: 500px;
+        margin: auto;
+        position: relative; /* Mantiene el apilamiento relativo */
+    }
+
+    .form-container {
+        width: 100%;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: visibility 0.5s ease, opacity 0.5s ease;
+        opacity: 0; /* Oculto inicialmente */
+        visibility: hidden; /* No visible inicialmente */
+        position: absolute; /* Apila los formularios uno encima del otro */
+        top: 0; /* Alinea todos los formularios en la parte superior del contenedor */
+    }
+
+        .form-container.active {
+            opacity: 1; /* Hacer visible */
+            visibility: visible; /* Visible */
+        }
+
+    .register-form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .form-input {
+        width: 80%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 1em;
+        text-align: center;
+    }
+
+    .submit-btn {
+        width: 80%;
+        padding: 10px 20px;
+        background-color: #4A0D50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        font-size: 1.2em;
+        transition: background-color 0.3s ease;
+    }
+
+        .submit-btn:hover {
+            background-color: #8C0042;
+        }
+
+    .message {
+        text-align: center;
+        margin-top: 20px;
+        color: #4A0D50;
+        font-weight: bold;
+    }
+</style>
+

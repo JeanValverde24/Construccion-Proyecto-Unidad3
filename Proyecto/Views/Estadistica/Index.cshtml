@@ -1,0 +1,121 @@
+﻿@model List<Proyecto.Controllers.NegocioViewModel>
+
+<h2 style="font-family: Arial, sans-serif; color: #333;">Estadísticas por Negocio</h2>
+
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+    <thead>
+        <tr style="background-color: #f4f4f4; text-align: left;">
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Nombre</th>
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Provincia</th>
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Tipo de Negocio</th>
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Dirección</th>
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Teléfono</th>
+            <th style="padding: 10px; border-bottom: 1px solid #ddd;">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var negocio in Model)
+        {
+            <tr>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.negocio_nombre</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Provincia</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.tipo_negocio</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Direccion</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Telefono</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">
+                    <button style="padding: 5px 10px; border: none; background-color: #007bff; color: white; cursor: pointer; border-radius: 5px;"
+                            onclick="verEstadisticas(@negocio.negocio_id)">
+                        Ver Estadísticas
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="estadisticas" style="margin-top: 30px; text-align: center;">
+    <canvas id="negociosChart" width="500" height="300"></canvas>
+</div>
+
+<style>
+    #negociosChart {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 10px;
+        background: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    let negociosChart; // Variable global para almacenar el gráfico actual
+
+    function verEstadisticas(negocioId) {
+        fetch(`/Estadistica/EstadisticasPorNegocio?negocioId=${negocioId}`)
+            .then(response => response.json())
+            .then(data => {
+                const labels = ['Visitas', 'Recomendaciones'];
+                const dataset = [
+                    data.Visitas,
+                    data.Recomendaciones.reduce((sum, rec) => sum + rec.Cantidad, 0)
+                ];
+
+                // Destruir el gráfico anterior si existe
+                if (negociosChart) {
+                    negociosChart.destroy();
+                }
+
+                const ctx = document.getElementById('negociosChart').getContext('2d');
+                negociosChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels,
+                        datasets: [{
+                            label: 'Visitas',
+                            data: [data.Visitas, 0],
+                            backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Recomendaciones',
+                            data: [0, data.Recomendaciones.reduce((sum, rec) => sum + rec.Cantidad, 0)],
+                            backgroundColor: 'rgba(153, 102, 255, 0.6)',
+                            borderColor: 'rgba(153, 102, 255, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top',
+                                labels: {
+                                    color: '#333',
+                                    font: {
+                                        size: 12
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                ticks: { color: '#555' },
+                                grid: { color: '#f4f4f4' }
+                            },
+                            y: {
+                                beginAtZero: true,
+                                ticks: { color: '#555' },
+                                grid: { color: '#f4f4f4' }
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(error => console.error('Error:', error));
+    }
+</script>

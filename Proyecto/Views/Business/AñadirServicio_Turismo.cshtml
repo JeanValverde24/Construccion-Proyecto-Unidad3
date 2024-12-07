@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Agregar Lugar Turístico";
+    var negocioId = ViewBag.NegocioId; // Asegúrate de pasar el negocioId
+}
+<form id="formAgregarLugarTuristico" action="@Url.Action("AgregarLugarTuristico", "Turismo")" method="post">
+    <input type="hidden" name="negocioId" value="@negocioId" />
+    <label>Nombre del Lugar:</label>
+    <input type="text" name="nombreLugar" required />
+    <label>Descripción:</label>
+    <textarea name="descripcion" required></textarea>
+    <label>Precio:</label>
+    <input type="number" step="0.01" name="precio" required />
+    <label>Provincia:</label>
+    <select name="provincia">
+        <option value="Tacna">Tacna</option>
+        <option value="Tarata">Tarata</option>
+        <!-- Más opciones aquí -->
+    </select>
+    <button type="submit">Agregar Lugar</button>
+</form>

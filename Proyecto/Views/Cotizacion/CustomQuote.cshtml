@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "Cotización Personalizada";
+}
+
+<style>
+    .custom-btn {
+        padding: 10px 20px;
+        font-size: 18px;
+        color: white;
+        background-color: #8C0042; /* Burdeos */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .custom-btn:hover {
+            background-color: #4A0D50; /* Morado oscuro */
+        }
+
+    .color1 {
+        background-color: #4A0D50; /* Morado oscuro */
+    }
+
+    .recomendacion {
+        box-sizing: border-box;
+        width: 190px;
+        height: 254px;
+        background: rgba(217, 217, 217, 0.58);
+        border: 1px solid white;
+        box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+        backdrop-filter: blur(6px);
+        border-radius: 17px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.5s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        user-select: none;
+        font-weight: bolder;
+        color: black;
+        margin: 10px; /* Añadir margen entre recomendaciones */
+    }
+
+        .recomendacion:hover {
+            border: 1px solid black;
+            transform: scale(1.05);
+        }
+
+        .recomendacion:active {
+            transform: scale(0.95) rotateZ(1.7deg);
+        }
+
+    .container-recomendaciones {
+        padding: 150px;
+        text-align: center; /* Centrar texto dentro del contenedor */
+    }
+
+    .form-label {
+        font-weight: bold;
+        color: #4A0D50; /* Morado oscuro */
+        display: block; /* Asegurarse de que las etiquetas ocupen toda la línea */
+        margin: 10px 0; /* Añadir margen vertical */
+    }
+
+    .form-control {
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        width: 100%; /* Hacer que los campos ocupen el ancho completo */
+        max-width: 300px; /* Limitar el ancho máximo */
+        margin-left: auto; /* Centrar horizontalmente */
+        margin-right: auto; /* Centrar horizontalmente */
+    }
+
+    .recomendaciones-container {
+        display: flex;
+        justify-content: center; /* Centrar las tarjetas de recomendación */
+        flex-wrap: wrap; /* Permitir que las tarjetas se ajusten en varias filas */
+    }
+</style>
+
+<div class="container-recomendaciones">
+    <h2 class="text-center mb-4">Recomendaciones Personalizadas</h2>
+    <!-- Contenedor para filtrar recomendaciones -->
+    <label for="cantidadPersonas" class="form-label">Filtrar recomendaciones</label>
+    <select class="form-control" id="cantidadPersonas" name="cantidadPersonas">
+        <option value="1">Filtrar recomendaciones</option>
+    </select>
+
+    <!-- Contenedor de recomendaciones -->
+    <div class="recomendaciones-container">
+        <div class="recomendacion">Recomendación 1</div>
+        <div class="recomendacion">Recomendación 2</div>
+        <div class="recomendacion">Recomendación 3</div>
+    </div>
+</div>

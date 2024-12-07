@@ -1,0 +1,56 @@
+﻿@model Proyecto.Models.Servicio
+
+<div class="container">
+    <h2>Editar Servicio - @Model.Nombre</h2>
+    <hr />
+
+    @using (Html.BeginForm())
+    {
+        <!-- Si es un Hotel -->
+        if (Model.Precio.HasValue)
+        {
+            <div class="form-group">
+                @Html.LabelFor(m => m.Precio, "Precio por Noche (S/)")
+                @Html.TextBoxFor(m => m.Precio, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.NumeroHabitaciones, "Número de Habitaciones")
+                @Html.TextBoxFor(m => m.NumeroHabitaciones, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.ServiciosIncluidos, "Servicios Incluidos")
+                @Html.TextBoxFor(m => m.ServiciosIncluidos, new { @class = "form-control" })
+            </div>
+        }else if (!string.IsNullOrEmpty(Model.TipoComida))
+        {
+            <div class="form-group">
+                @Html.LabelFor(m => m.TipoComida, "Tipo de Comida")
+                @Html.TextBoxFor(m => m.TipoComida, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Capacidad, "Capacidad")
+                @Html.TextBoxFor(m => m.Capacidad, new { @class = "form-control" })
+            </div>
+            <div class= "form-group" >
+                @Html.LabelFor(m => m.Horario, "Horario")
+                @Html.TextBoxFor(m => m.Horario, new { @class = "form-control" })
+            </div>
+        }else if (!string.IsNullOrEmpty(Model.Duracion))
+        {
+            <div class= "form-group" >
+                @Html.LabelFor(m => m.Duracion, "Duración del Tour")
+                @Html.TextBoxFor(m => m.Duracion, new { @class = "form-control" })
+            </div >
+            <div class= "form-group" >
+                @Html.LabelFor(m => m.PrecioTour, "Precio del Tour (S/)")
+                @Html.TextBoxFor(m => m.PrecioTour, new { @class = "form-control" })
+            </div >
+            <div class= "form-group" >
+                @Html.LabelFor(m => m.Horario, "Horario")
+                @Html.TextBoxFor(m => m.Horario, new { @class = "form-control" })
+            </div >
+        }
+
+        <button type = "submit" class= "btn btn-primary"> Guardar Cambios </button>
+     }
+</div>

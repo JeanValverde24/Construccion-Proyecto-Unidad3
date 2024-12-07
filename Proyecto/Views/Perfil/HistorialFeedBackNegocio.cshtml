@@ -1,0 +1,50 @@
+﻿@model List<Proyecto.Models.NegocioConFeedback>
+
+<h2>Historial de Feedback de Negocios</h2>
+
+@if (!Model.Any())
+{
+    <p>No tienes negocios registrados con feedbacks.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Negocio</th>
+                <th>Provincia</th>
+                <th>Tipo de Negocio</th>
+                <th>Feedbacks</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var negocio in Model)
+            {
+                <tr>
+                    <td>@negocio.negocio_nombre</td>
+                    <td>@negocio.provincia</td>
+                    <td>@negocio.tipo_negocio</td>
+                    <td>
+                        @if (negocio.feedbacks.Any())
+                        {
+                            <ul>
+                                @foreach (var feedback in negocio.feedbacks)
+                                {
+                                    <li>
+                                        Calificación: @feedback.FbCalificacion ★ <br />
+                                        Comentario: @feedback.FbComentario <br />
+                                        Fecha: @feedback.FbFecha.ToString("dd/MM/yyyy") <br />
+                                    </li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p>Sin feedbacks.</p>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Negocios";
+}
+
+<h2>Mis Negocios</h2>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+else if (Model != null && Model.Count > 0)
+{
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Tipo de Negocio</th>
+                <th>Provincia</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var negocio in Model)
+            {
+                <tr>
+                    <td>@negocio.negocio_id</td>
+                    <td>@negocio.TbNgcNombre</td>
+                    <td>@negocio.TipoNegocio</td>
+                    <td>@negocio.Provincia</td>
+                    <td>@negocio.TbNgcDireccion</td>
+                    <td>@negocio.TbNgcTelefono</td>
+                    <td>
+                        <a href="@Url.Action("CargarInformacionDelNegocio", "Business", new { negocioId = negocio.negocio_id })" class="btn btn-primary">Editar Negocio</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">No se encontraron negocios.</div>
+}

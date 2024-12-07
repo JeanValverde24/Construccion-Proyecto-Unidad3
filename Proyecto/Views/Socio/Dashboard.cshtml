@@ -1,0 +1,110 @@
+﻿@model Proyecto.Models.SocioDashboardViewModel
+
+<div class="container">
+    <h1>Bienvenido, @Model.NombreSocio</h1>
+    <hr />
+
+    <!-- Botones de filtro -->
+    <div class="btn-group mb-4">
+        <a href="@Url.Action("Dashboard", new { filtro = "" })" class="btn btn-secondary">Todos</a>
+        <a href="@Url.Action("Dashboard", new { filtro = "hotel" })" class="btn btn-primary">Hoteles</a>
+        <a href="@Url.Action("Dashboard", new { filtro = "restaurante" })" class="btn btn-success">Restaurantes</a>
+        <a href="@Url.Action("Dashboard", new { filtro = "tour" })" class="btn btn-warning">Lugares Turísticos</a>
+    </div>
+
+    <!-- Tarjetas con estadísticas generales -->
+    <div class="row">
+        <!-- Tarjeta de Visitas Totales con evento para abrir el modal -->
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3" data-bs-toggle="modal" data-bs-target="#visitasModal" style="cursor: pointer;">
+                <div class="card-header">Visitas Totales</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.TotalVisitas</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-header">Contactos Recibidos</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.ContactosRecibidos</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-header">Calificación Promedio</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.CalificacionPromedio</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para las estadísticas de visitas -->
+    <div class="modal fade" id="visitasModal" tabindex="-1" aria-labelledby="visitasModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="visitasModalLabel">Estadísticas de Visitas</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Aquí puedes agregar las estadísticas que quieras mostrar -->
+                    <p><strong>Visitas Totales:</strong> @Model.TotalVisitas</p>
+                    <p><strong>Promedio de Visitas Diarias:</strong> 35</p> <!-- Ejemplo de estadística adicional -->
+                    <!-- Puedes agregar gráficos, tablas u otra información que desees -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tabla con los servicios del socio -->
+    <h2>Tus Servicios</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Servicio</th>
+                <th>Características</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var servicio in Model.Servicios)
+            {
+                <tr>
+                    <td>@servicio.Nombre</td>
+                    <td>
+                        @if (servicio.Precio != null)
+                        {
+                            <p><strong>Precio por Noche:</strong> S/ @servicio.Precio.00</p>
+                            <p><strong>Habitaciones:</strong> @servicio.NumeroHabitaciones</p>
+                            <p><strong>Servicios Incluidos:</strong> @servicio.ServiciosIncluidos</p>
+                        }
+                        else if (servicio.TipoComida != null)
+                        {
+                            <p><strong>Tipo de Comida:</strong> @servicio.TipoComida</p>
+                            <p><strong>Capacidad:</strong> @servicio.Capacidad personas</p>
+                            <p><strong>Horario:</strong> @servicio.Horario</p>
+                        }
+                        else if (servicio.Duracion != null)
+                        {
+                            <p><strong>Duración del Tour:</strong> @servicio.Duracion</p>
+                            <p><strong>Precio del Tour:</strong> S/ @servicio.PrecioTour.00</p>
+                            <p><strong>Horario:</strong> @servicio.Horario</p>
+                        }
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Editar", "Socio", new { id = servicio.Id })" class="btn btn-warning">Editar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Asegúrate de que tienes Bootstrap en tu proyecto -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

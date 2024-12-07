@@ -1,0 +1,44 @@
+﻿@model Tuple<List<Proyecto.Models.ServicioHotel>, List<Proyecto.Models.ServicioRestaurante>, List<Proyecto.Models.ServicioTurismo>>
+
+@{
+    ViewBag.Title = "Editar Servicios";
+}
+
+<h2>Editar Servicios</h2>
+
+<p>Negocio ID: @ViewBag.NegocioId</p> <!-- Esto debería mostrar el ID de negocio -->
+
+
+<div class="container">
+    @if (Model != null && Model.Item1 != null && Model.Item1.Count > 0)
+    {
+        <h3>Servicios de Hotel</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID del Negocio</th>
+                    <th>Precio</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var hotel in Model.Item1)
+                {
+                    <tr>
+                        <td>@hotel.NegocioId</td>
+                        <td>@hotel.Precio</td>
+                        <td>
+                            <!-- Botones de acción, como Editar -->
+                            <a href="@Url.Action("Editar", "Socio", new { id = hotel.NegocioId })" class="btn btn-primary">Editar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No se encontraron servicios de hotel.</p>
+    }
+    <!-- Repite la estructura para Servicios de Restaurante y Turismo -->
+</div>

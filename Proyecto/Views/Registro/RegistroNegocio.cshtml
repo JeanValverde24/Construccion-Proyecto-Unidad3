@@ -1,0 +1,148 @@
+﻿@model Proyecto.Models.TipoNegocio
+@{
+    ViewBag.Title = "RegistroNegocio";
+}
+<style>
+
+
+    h2 {
+        color: #4A0D50;
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+
+    form {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-input,
+    .form-select {
+        width: 100%;
+        padding: 12px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 1em;
+        text-align: center;
+        color: #333;
+    }
+
+    .form-select {
+        background-color: #f9f9f9;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 12px;
+        background-color: #4A0D50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        font-size: 1.2em;
+        transition: background-color 0.3s ease;
+        font-weight: bold;
+    }
+
+        .submit-btn:hover {
+            background-color: #8C0042;
+        }
+
+    label {
+        display: block;
+        font-weight: bold;
+        font-size: 1.1em;
+        margin-bottom: 5px;
+        color: #4A0D50;
+        text-align: left;
+    }
+
+    .form-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    input[type="file"] {
+        padding: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        width: 100%;
+        color: #4A0D50;
+        background-color: #f9f9f9;
+        cursor: pointer;
+    }
+</style>
+@{
+    ViewBag.Title = "RegistroNegocio";
+}
+
+<h2>Registro de Negocio</h2>
+
+<form action="/Registro/RegistrarNegocio" method="post" enctype="multipart/form-data">
+    <div>
+        <label for="TbNgcUsuario">Usuario ID</label>
+        <input type="number" id="TbNgcUsuario" name="TbNgcUsuario" class="form-input"
+               value="@Session["IdUsuario"]" readonly required />
+    </div>
+
+    <div>
+        <label for="TbNgcNombre">Nombre del Negocio</label>
+        <input type="text" id="TbNgcNombre" name="TbNgcNombre" class="form-input" maxlength="70" required />
+    </div>
+
+    <div>
+        <label for="TbNgcTipoNegocio">Tipo de Negocio</label>
+        <select id="TbNgcTipoNegocio" name="TbNgcTipoNegocio" class="form-select" required>
+            <option value="">Seleccione un tipo de negocio</option>
+            @if (ViewBag.TiposNegocio != null)
+            {
+                foreach (var tipo in ViewBag.TiposNegocio)
+                {
+                    <option value="@tipo.TpNgcId">@tipo.Nombre</option>
+                }
+            }
+        </select>
+    </div>
+
+    <div>
+        <label for="TbNgcProvincia">Provincia</label>
+        <select id="TbNgcProvincia" name="TbNgcProvincia" class="form-select" required>
+            <option value="">Seleccione una provincia</option>
+            @if (ViewBag.Provincias != null)
+            {
+                foreach (var provincia in ViewBag.Provincias)
+                {
+                    <option value="@provincia.TbPvncId">@provincia.Nombre</option>
+                }
+            }
+        </select>
+    </div>
+
+    <div>
+        <label for="TbNgcDireccion">Dirección</label>
+        <input type="text" id="TbNgcDireccion" name="TbNgcDireccion" class="form-input"
+               maxlength="100" pattern="[a-zA-Z0-9\s,.-]+"
+               title="La dirección solo puede contener letras, números, espacios, comas, puntos o guiones." required />
+    </div>
+
+    <div>
+        <label for="TbNgcTelefono">Teléfono</label>
+        <input type="tel" id="TbNgcTelefono" name="TbNgcTelefono" class="form-input"
+               pattern="\d{9}" title="El teléfono debe tener exactamente 9 dígitos." required />
+    </div>
+
+    <div>
+        <label for="TbImgRuta">Imágenes del Negocio</label>
+        <input type="file" id="TbImgRuta" name="TbImgRuta" class="form-input" accept="image/*" multiple />
+    </div>
+
+    <button type="submit" class="submit-btn">Registrar Negocio</button>
+</form>
+

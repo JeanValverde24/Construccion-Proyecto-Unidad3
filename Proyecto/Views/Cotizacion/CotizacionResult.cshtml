@@ -1,0 +1,39 @@
+﻿@model List<Proyecto.Models.CotizacionResponse>
+
+<h2>Resultados de Cotización</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Hotel</th>
+            <th>Restaurante</th>
+            <th>Lugar</th>
+            <th>Costo Hotel (€)</th>
+            <th>Costo Restaurante (€)</th>
+            <th>Costo Lugar (€)</th>
+            <th>Total (€)</th>
+            <th>Presupuesto Restante (€)</th>
+            <th>Porcentaje del Presupuesto (%)</th>
+            <th>Ajuste por fechas</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cotizacion in Model)
+        {
+            <tr>
+                <td>@cotizacion.Hotel</td>
+                <td>@cotizacion.Restaurante</td>
+                <td>@cotizacion.Lugar</td>
+                <td>@cotizacion.CostoHotel</td>
+                <td>@cotizacion.CostoRestaurante</td>
+                <td>@cotizacion.CostoLugar</td>
+                <td>@cotizacion.Total</td>
+                <td>@cotizacion.PresupuestoRestante</td>
+                <td>@cotizacion.PorcentajePresupuesto</td>
+                <td>@cotizacion.AjusteEspecial</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
