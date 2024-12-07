@@ -91,7 +91,7 @@ namespace Proyecto.Controllers
 
                 if (response.IsSuccessStatusCode)
                 {
-                    return RedirectToAction("RegistroExitoso");
+                    return RedirectToAction("Index","Administrador");
                 }
                 else
                 {

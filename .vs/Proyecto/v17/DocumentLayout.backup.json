@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\proyecto\\controllers\\estadisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\estadisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|c:\\users\\lenov\\proyecto-plataforma-turistica-autogestionable\\proyecto\\views\\business\\cargarinformaciondelnegocio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\views\\business\\cargarinformaciondelnegocio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|c:\\users\\lenov\\proyecto-plataforma-turistica-autogestionable\\proyecto\\views\\estadistica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\views\\estadistica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|c:\\users\\lenov\\proyecto-plataforma-turistica-autogestionable\\proyecto\\views\\business\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\views\\business\\servicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\proyecto\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3323C0-9893-46AB-BF11-BA3BD6FAF80D}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Estadistica\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto\\Views\\Estadistica\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Estadistica\\Index.cshtml",
+              "RelativeToolTip": "Proyecto\\Views\\Estadistica\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T19:02:31.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicios.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Business\\Servicios.cshtml",
+              "RelativeDocumentMoniker": "Proyecto\\Views\\Business\\Servicios.cshtml",
+              "ToolTip": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Business\\Servicios.cshtml",
+              "RelativeToolTip": "Proyecto\\Views\\Business\\Servicios.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T19:01:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargarInformacionDelNegocio.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Business\\CargarInformacionDelNegocio.cshtml",
+              "RelativeDocumentMoniker": "Proyecto\\Views\\Business\\CargarInformacionDelNegocio.cshtml",
+              "ToolTip": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Views\\Business\\CargarInformacionDelNegocio.cshtml",
+              "RelativeToolTip": "Proyecto\\Views\\Business\\CargarInformacionDelNegocio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:57:55.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadisticaController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Controllers\\EstadisticaController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\EstadisticaController.cs",
+              "ToolTip": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Controllers\\EstadisticaController.cs*",
+              "RelativeToolTip": "Proyecto\\Controllers\\EstadisticaController.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:01:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Controllers\\BusinessController.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Controllers\\BusinessController.cs",
+              "ToolTip": "C:\\Users\\lenov\\Proyecto-Plataforma-Turistica-Autogestionable\\Proyecto\\Controllers\\BusinessController.cs",
+              "RelativeToolTip": "Proyecto\\Controllers\\BusinessController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAqwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:54:58.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

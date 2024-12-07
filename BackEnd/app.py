@@ -90,11 +90,11 @@ def obtener_negocios():
         cursor.execute("""
             SELECT 
                 TbNegocio.TbNgcId AS negocio_id,
-                TbNegocio.TbNgcNombre AS negocio_nombre,
+                TbNegocio.TbNgcNombre AS TbNgcNombre,
                 TbProvincia.TbPvncDescripcion AS provincia,
-                TbTipoNegocio.TpNgcDescripcion AS tipo_negocio,
-                TbNegocio.TbNgcDireccion AS direccion,  -- Incluye dirección
-                TbNegocio.TbNgcTelefono AS telefono    -- Incluye teléfono
+                TbTipoNegocio.TpNgcDescripcion AS TipoNegocio,
+                TbNegocio.TbNgcDireccion AS TbNgcDireccion,  -- Incluye dirección
+                TbNegocio.TbNgcTelefono AS TbNgcTelefono    -- Incluye teléfono
             FROM 
                 TbNegocio
             LEFT JOIN 

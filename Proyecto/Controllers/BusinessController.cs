@@ -130,7 +130,9 @@ namespace Proyecto.Controllers
                 {
                     TbNgcNombre = negocio.TbNgcNombre,
                     TipoNegocio = negocio.TipoNegocio,
-                    ProvinciaId = negocio.TbNgcProvincia  // El valor correcto de la provincia
+                    ProvinciaId = negocio.TbNgcProvincia, // El valor correcto de la provincia
+                    TbNgcDireccion=negocio.TbNgcDireccion,
+                    TbNgcTelefono=negocio.TbNgcTelefono
                 };
 
                 var serializedPayload = JsonConvert.SerializeObject(payload);
@@ -142,7 +144,7 @@ namespace Proyecto.Controllers
 
                 if (response.IsSuccessStatusCode)
                 {
-                    return RedirectToAction("Servicios");
+                    return RedirectToAction("Negocios","Negocio");
                 }
 
                 ModelState.AddModelError("", "No se pudo actualizar el negocio.");

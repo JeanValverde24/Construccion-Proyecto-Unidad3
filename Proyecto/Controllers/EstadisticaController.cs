@@ -75,15 +75,15 @@ namespace Proyecto.Controllers
         public int NegocioId { get; set; }
         public int negocio_id { get; set; }
 
-        public string NegocioNombre { get; set; }
+        public string TbNgcNombre { get; set; }
         public string negocio_nombre { get; set; }
 
         public string Provincia { get; set; }
         public string TipoNegocio { get; set; }
         public string tipo_negocio { get; set; }
 
-        public string Direccion { get; set; }
-        public string Telefono { get; set; }
+        public string TbNgcDireccion { get; set; }
+        public string TbNgcTelefono { get; set; }
     }
 
     public class EstadisticasViewModel

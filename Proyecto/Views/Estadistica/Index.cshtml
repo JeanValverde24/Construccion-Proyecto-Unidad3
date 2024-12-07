@@ -17,11 +17,11 @@
         @foreach (var negocio in Model)
         {
             <tr>
-                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.negocio_nombre</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.TbNgcNombre</td>
                 <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Provincia</td>
-                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.tipo_negocio</td>
-                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Direccion</td>
-                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.Telefono</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.TipoNegocio</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.TbNgcDireccion</td>
+                <td style="padding: 10px; border-bottom: 1px solid #ddd;">@negocio.TbNgcTelefono</td>
                 <td style="padding: 10px; border-bottom: 1px solid #ddd;">
                     <button style="padding: 5px 10px; border: none; background-color: #007bff; color: white; cursor: pointer; border-radius: 5px;"
                             onclick="verEstadisticas(@negocio.negocio_id)">
